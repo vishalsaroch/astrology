@@ -1,0 +1,6 @@
+{
+  "name": "ASTRO APP - Multilingual Vedic Astrology & Kundli Platform",
+  "description": "Comprehensive multilingual Vedic astrology SaaS with high-precision Kundli birth charts, Gun Milan matchmaking, daily Panchang, horoscopes, tarot, numerology, astrologer consultations, remedies, and AI Vedic astrologer.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
